@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/event-hub-platform-347457-347472/local_events_postgres_db"
+}
